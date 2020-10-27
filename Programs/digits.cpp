@@ -9,8 +9,8 @@ int main() {
             int n;
             cout<<"Enter a number: ";
             cin>>n;
-            int t=n;
-            int d=0;
+            int t=n+1;
+            int d=1;
             while(t!=0)
             {
                     t=t/10;
