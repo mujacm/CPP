@@ -21,7 +21,7 @@ int main() {
             for(unsigned j=0;j< str.length();j++)
             {
                     if(j%2!=0)
-                    cout<<str[(j*2) + 1];
+                    cout<<str[j];
             }
         return 0;
 }
