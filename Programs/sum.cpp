@@ -11,5 +11,5 @@ int main() {
         for(int i=1;i<=n;i++)
            s=s+i;
         cout<<endl<<"Sum of 1 to "<<n<<" is = "<<s;
-    return 0;
+
 }
