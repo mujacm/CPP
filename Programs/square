@@ -1,0 +1,19 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+bool isPerfectSquare(long double x)
+{
+    long double sr = sqrt(x);
+    return ((sr - floor(sr)) == 0);
+}
+
+int main() {
+  long double x;
+  cout << "Enter a number: ";
+  cin >> x;
+  if (isPerfectSquare(x))
+    cout << "Number is a perfect square.";
+  else
+    cout << "Nah, not a perfect square.";
+  return 0;
+}
