@@ -10,6 +10,8 @@ Sample Output: MNPL AIA
 #include <string>
 using namespace std;
 int main() {
+            
+    //sample comment
             string str;
             cin>>str;
             for(unsigned j=0;j< str.length();j++)
