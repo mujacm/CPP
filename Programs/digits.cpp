@@ -1,5 +1,5 @@
 /*
-Problem: To find number of digits of a number.
+Problem: numbers.
 */
 
 #include <iostream>
@@ -7,7 +7,7 @@ Problem: To find number of digits of a number.
 using namespace std;
 int main() {
             int n;
-            cout<<"Enter a number: ";
+            cout<<"Enter a quote: ";
             cin>>n;
             int t=n;
             int d=0;
@@ -16,7 +16,7 @@ int main() {
                     t=t/10;
                     d++;
             }
-            cout<<endl<<"Number of digits of "<<n<<" is "<<d;
+            cout<<endl<<"Number of b is "<<d;
         return 0;
 }
 
