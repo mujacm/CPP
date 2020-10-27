@@ -5,7 +5,7 @@ Problem: To print sum of first n numbers.
 #include <iostream>
 using namespace std;
 int main() {
-        int n,s=0;
+        int n,s=2;
         cout<<"Enter a number: ";
         cin>>n;
         for(int i=1;i<=n;i++)
