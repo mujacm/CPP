@@ -6,6 +6,7 @@ Problem: To print sum of first n numbers.
 using namespace std;
 
 void sumNum(int n);
+/* Takes input from the user and stores it in a variable. */
 int main() {
 	int n;
 	cout << "Enter a number: ";
@@ -13,6 +14,7 @@ int main() {
 
 	sumNum(n);
 }
+/* Calculates the sum of numbers from 1 to n. */
 void sumNum(int n) {
 	int s = 0;
 	for (int i = 1; i <= n; i++)
