@@ -10,17 +10,17 @@ Sample Output: MNPL AIA
 #include <string>
 using namespace std;
 int main() {
-            string str;
-            cin>>str;
-            for(unsigned j=0;j< str.length();j++)
+            string string;
+            cin>>string;
+            for(unsigned j=0;j< string.length();j++)
             {
-                    cout<<str[j*2];
+                    cout<<string[j*2];
             }
             cout<<" ";
-            for(unsigned j=0;j< str.length();j++)
+            for(unsigned j=0;j< string.length();j++)
             {
             
-                    cout<<str[(j*2) + 1];
+                    cout<<string [(j*2) + 1];
             }
         return 0;
 }
