@@ -8,19 +8,22 @@ Sample Output: MNPL AIA
 #include <vector>
 #include <iostream>
 #include <string>
-using namespace std;
+
+
 int main() {
-            string str;
-            cin>>str;
-            for(unsigned j=0;j< str.length();j++)
+            std::string str;
+            std::cin>>str;
+
+            for(unsigned int j=0; j< str.length(); j+=2)
             {
-                    cout<<str[j*2];
+                    std::cout << str[j];
             }
-            cout<<" ";
-            for(unsigned j=0;j< str.length();j++)
+
+            std::cout<<" ";
+
+            for(unsigned int j=1; j< str.length(); j+=2)
             {
-            
-                    cout<<str[(j*2) + 1];
+                    std::cout<<str[j];
             }
         return 0;
 }
