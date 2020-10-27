@@ -16,19 +16,22 @@ int main()
     getline(cin, msg);
     cout << endl << "Encrypting..." << endl;
     string encrypt = {};
-    for (int i=0;i<msg.length();i++)
+    int l=msg.length();
+    int al=alphabet.length();
+    for (int i=0;i<l;i++)
     {
-        for(int j=0;j<alphabet.length();j++)
+        for(int j=0;j<al;j++)
         {
             if(alphabet[j]==msg[i])
             msg[i]=key[j];
         }
     }
+    int kl=key.length();
     cout<<"Encrypted message is: "<<msg;
     cout<<endl<<"Decrypting...";
-    for (int i=0;i<msg.length();i++)
+    for (int i=0;i<l;i++)
     {
-        for(int j=0;j<key.length();j++)
+        for(int j=0;j<kl;j++)
         {
             if(key[j]==msg[i])
             msg[i]=alphabet[j];
