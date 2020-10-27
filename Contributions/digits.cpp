@@ -10,13 +10,13 @@ int main() {
             cout<<"Enter a your number: ";
             cin>>n;
             int t=n;
-            int d=0;
+            int c=0;
             while(t!=0)
             {
                     t=t/10;
-                    d++;
+                    c++;
             }
-            cout<<endl<<"Number of digits of "<<n<<" is "<<d;
+            cout<<endl<<"Number of digits of "<<n<<" is "<<c;
         return 0;
 }
 
