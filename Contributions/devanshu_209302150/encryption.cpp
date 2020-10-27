@@ -24,7 +24,7 @@ int main()
             msg[i]=key[j];
         }
     }
-    cout<<"Encrypted code is: "<<msg;
+    cout<<"Encrypted message is: "<<msg;
     cout<<endl<<"Decrypting...";
     for (int i=0;i<msg.length();i++)
     {
@@ -34,6 +34,6 @@ int main()
             msg[i]=alphabet[j];
         }
     }
-    cout<<endl<<"Decrypted code is: "<<msg;
+    cout<<endl<<"Decrypted message is-"<<msg;
     return 0;
 }
