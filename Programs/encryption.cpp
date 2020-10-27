@@ -29,6 +29,7 @@ int main()
     for (int i=0;i<msg.length();i++)
     {
         for(int j=0;j<key.length();j++)
+            //commenting just for 4th pull request
         {
             if(key[j]==msg[i])
             msg[i]=alphabet[j];
