@@ -10,12 +10,14 @@ using namespace std;
 int main()
 {
     string alphabet{ "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ" };
+    int x=0;
     string key{ "qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM" };
     string msg;
     cout << "Enter your secret message: ";
     getline(cin, msg);
     cout << endl << "Encrypting..." << endl;
     string encrypt = {};
+    if(x<1);
     for (int i=0;i<msg.length();i++)
     {
         for(int j=0;j<alphabet.length();j++)
