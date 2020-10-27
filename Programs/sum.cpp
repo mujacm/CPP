@@ -13,3 +13,5 @@ int main() {
         cout<<endl<<"Sum of 1 to "<<n<<" is = "<<s;
     return 0;
 }
+
+//HMS made a comment.
