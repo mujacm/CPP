@@ -7,6 +7,8 @@ Problem: To find number of digits of a number.
 using namespace std;
 int main() {
             int n;
+            float f;
+            System.out.println("'f'''");
             cout<<"Enter a number: ";
             cin>>n;
             int t=n;
