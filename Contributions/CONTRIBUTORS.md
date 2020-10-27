@@ -17,4 +17,4 @@ Add your name and link to your GitHub account below after you have contributed t
 4. Anmol Srivastava [GitHub Account](https://www.github.com/anmolsri150)
 
 
-Rajit Kuthiala:Added A cpp file.
+Rajit Kuthiala(Added A cpp file,in digits file changed / to *)
