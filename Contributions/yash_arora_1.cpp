@@ -11,21 +11,11 @@ Sample Output: MNPL AIA
 
 using namespace std;
 
-int main() {
-    string str;
-
-    cin >> str;
-    // Results all even positioned characters.
-    for (unsigned j = 0; j < str.length(); j += 2)
-    {
-        cout << str[j];
-    }
-    cout << " ";
-    // Results all odd positioned characters.
-    for (unsigned j = 0; j < str.length(); j++)
-    {
-
-        cout << str[(j * 2) + 1];
-    }
-    return 0;
+int main()
+{
+	int n;
+	cout<<"Enter a number: ";
+	cin>>n;
+	cout<<"The number you entered is: "<<n; //displaying the number entered by the user
+	return 0;
 }
