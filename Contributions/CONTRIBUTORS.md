@@ -18,4 +18,5 @@ Add your name and link to your GitHub account below after you have contributed t
 
 5. Pratham Kuamr (Create a void function to sum all the numbers, also, improved the design of the file.)
 6. Pratham Kuamr (Edited the program and added comments, also, improved the design of the file.)
+7. Yash Arora (Added a new program) [Github Account](https://www.github.com/yashar1908)
 
