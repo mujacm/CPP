@@ -12,5 +12,6 @@ int main() {
            s=s+i;
         cout<<endl<<"Sum of 1 to "<<n<<" is = "<<s;
         cout<<"this is computer";
+        cout<<"sum is here";
     return 0;
 }
