@@ -16,6 +16,6 @@ Add your name and link to your GitHub account below after you have contributed t
 3. Abhirup Chakraborty [GitHub Account](https://www.github.com/yoloabhi)
 4. Anmol Srivastava [GitHub Account](https://www.github.com/anmolsri150)
 
-5. Pratham Kuamr (Create a void function to sum all the numbers, also, improved the design of the file.)
-6. Pratham Kuamr (Edited the program and added comments, also, improved the design of the file.)
+5. Pratham Kumar (Create a void function to sum all the numbers, also, improved the design of the file.)
+6. Pratham Kumar (Edited the program and added comments, also, improved the design of the file.)
 
