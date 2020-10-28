@@ -17,7 +17,6 @@ Add your name and link to your GitHub account below after you have contributed t
 4. Anmol Srivastava [GitHub Account](https://www.github.com/anmolsri150)
 5. Kathan Desai [GitHub Account](https://github.com/kathan3009/)
 6. Anshul Kumar [GitHub Account](https://www.github.com/formalemon)
-7 Pratham Kuamr (Create a void function to sum all the numbers, also, improved the design of the file.)
-8Pratham Kuamr (Edited the program and added comments, also, improved the design of the file.)
+7. Pratham Kuamr (Create a void function to sum all the numbers, also, improved the design of the file.)
+8. Pratham Kuamr (Edited the program and added comments, also, improved the design of the file.)
 9 Yash Arora (Added a new program - fibonacci) [Github Account](https://github.com/yashar1908)
-
