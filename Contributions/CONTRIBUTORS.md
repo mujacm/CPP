@@ -24,3 +24,4 @@ Add your name and link to your GitHub account below after you have contributed t
 11. Rajit Kuthiala(Added A cpp file,in digits file changed / to *)
 12. Prashant Kumar(i have upgraded the variable)
 13. Abhirup (i solved a problem of CPP digit.cpp
+14. Ansh Ranjan [GitHub Account] (https://github.com/Ansh-Ranjan)
