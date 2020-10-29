@@ -26,3 +26,5 @@ Add your name and link to your GitHub account below after you have contributed t
 13. Abhirup (i solved a problem of CPP digit.cpp
 14. Ansh Ranjan [GitHub Account] (https://github.com/Ansh-Ranjan)
 15. Anhika (Added a cpp program to add 2 numerical strings)
+
+Raina Jangid-github is the "facebook" of git
