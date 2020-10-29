@@ -21,4 +21,4 @@ Add your name and link to your GitHub account below after you have contributed t
 8. Pratham Kuamr (Edited the program and added comments, also, improved the design of the file.)
 9 Yash Arora (Added a new program - fibonacci) [Github Account](https://github.com/yashar1908)
 10. Devanshu Rastogi [GitHub Account](https://github.com/devanshu052000)
-
+11. Rajit Kuthiala(Added A cpp file,in digits file changed / to *)
