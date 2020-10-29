@@ -8,8 +8,17 @@ int main() {
         int n,s=0;
         cout<<"Enter a number: ";
         cin>>n;
-        for(int i=1;i<=n;i++)
-           s=s+i;
+        s = sumall(n);
         cout<<endl<<"Sum of 1 to "<<n<<" is = "<<s;
     return 0;
+}
+int sumall(int n)
+{
+  int S = 0;
+  while(n > 0)
+  {
+    S += n;
+    n--;
+  }
+  return S;
 }
